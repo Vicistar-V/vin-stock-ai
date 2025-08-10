@@ -232,8 +232,8 @@ npm run dev
 # Copy the example file
 cp .env.example .env
 
-# Add your API keys here (check .env for what's needed)
-# - Supabase stuff (set up in your deployment)
+# Add your API keys here (check .env.example for what's needed)
+# - Supabase stuff (NEXT_PUBLIC_SUPABASE_PROJECT_ID, NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY, NEXT_PUBLIC_SUPABASE_URL)
 # - Financial data keys
 # - AI service keys
 ```
