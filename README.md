@@ -6,26 +6,12 @@
 
 ---
 
-## 🎥 **DEMO VIDEO** — Check Out the Cool Stuff!
-
-*[Video placeholder - Record a 2-3 minute walkthrough using Loom showing the "Golden Path" user journey]*
-
-**Here's what you can do:**
-1. 🔍 AI Stock Search → Find any stock just by asking naturally!
-2. 📊 Real-time Market Intelligence → Live data and awesome charts.
-3. 🧠 AI News Analysis → See what the news really means for your stocks.
-4. 💡 ELI5 Financial Metrics → AI explains complicated finance stuff in plain English.
-5. 🎯 Portfolio Analysis → Upload your stocks, get AI insights.
-6. 🚀 AI Stock Screener → Tell AI your goals, get personalized stock picks.
-
----
-
 ## 🚀 **ALL THE AWESOME FEATURES** — Everything You Need!
 
 ### 🔍 **1. Smart Stock Search**
 *AI that actually understands what you're looking for!*
 
-![Stock Search Demo](https://via.placeholder.com/600x300/000000/FFFFFF?text=AI+Stock+Search+Demo+GIF)
+![Stock Search Demo](https://github.com/Vicistar-V/vin-stock-ai/blob/main/public/stock-search-demo.gif)
 
 **What it does:**
 - Understands company names, tickers, and descriptions.
@@ -38,7 +24,7 @@
 ### 📊 **2. Live Market Dashboard**
 *Your own pro trading screen with real-time data.*
 
-![Market Dashboard Demo](https://via.placeholder.com/600x300/000000/FFFFFF?text=Live+Market+Dashboard+GIF)
+![Market Dashboard Demo](https://github.com/Vicistar-V/vin-stock-ai/blob/main/public/market-dashboard-demo.gif)
 
 **What it does:**
 - Prices update live with cool animations.
@@ -52,7 +38,7 @@
 ### 🧠 **3. AI News Sentiment Analysis**
 *AI reads the news and tells you how it feels about stocks.*
 
-![AI News Analysis Demo](https://via.placeholder.com/600x300/000000/FFFFFF?text=AI+News+Analysis+GIF)
+![AI News Analysis Demo](https://github.com/Vicistar-V/vin-stock-ai/blob/main/public/ai-news-analysis-demo.gif)
 
 **What it does:**
 - Gives news a score (1-10) and tells you why.
@@ -66,7 +52,7 @@
 ### 💡 **4. ELI5 Financial Metrics**
 *Confused by financial jargon? AI breaks it down for you!*
 
-![ELI5 Metrics Demo](https://via.placeholder.com/600x300/000000/FFFFFF?text=ELI5+Financial+Metrics+GIF)
+![ELI5 Metrics Demo](https://github.com/Vicistar-V/vin-stock-ai/blob/main/public/eli5-metrics-demo.gif)
 
 **What it does:**
 - One click for AI explanations of any financial term.
@@ -80,7 +66,7 @@
 ### 📈 **5. Awesome Stock Charts**
 *Pro charts with different time views and fancy analysis.*
 
-![Stock Charts Demo](https://via.placeholder.com/600x300/000000/FFFFFF?text=Advanced+Stock+Charts+GIF)
+![Stock Charts Demo](https://github.com/Vicistar-V/vin-stock-ai/blob/main/public/stock-charts-demo.gif)
 
 **What it does:**
 - See stock performance over various periods (daily, weekly, monthly, etc.).
@@ -94,7 +80,7 @@
 ### 🎯 **6. AI Portfolio Analyzer**
 *Upload your investments and get smart AI analysis.*
 
-![Portfolio Analysis Demo](https://via.placeholder.com/600x300/000000/FFFFFF?text=Portfolio+Analysis+GIF)
+![Portfolio Analysis Demo](https://github.com/Vicistar-V/vin-stock-ai/blob/main/public/portfolio-analysis-demo.gif)
 
 **What it does:**
 - Just type in your holdings ("10 Apple shares, 25 Microsoft").
@@ -108,7 +94,7 @@
 ### 🚀 **7. AI Investment Screener**
 *Tell AI your investment goals, and it'll find stocks for you!*
 
-![AI Screener Demo](https://via.placeholder.com/600x300/000000/FFFFFF?text=AI+Investment+Screener+GIF)
+![AI Screener Demo](https://github.com/Vicistar-V/vin-stock-ai/blob/main/public/ai-screener-demo.gif)
 
 **What it does:**
 - Understands your investment criteria in plain English.
@@ -122,7 +108,7 @@
 ### 🌊 **8. Sector Pulse Analysis**
 *See how different parts of the market are doing in real-time.*
 
-![Sector Pulse Demo](https://via.placeholder.com/600x300/000000/FFFFFF?text=Sector+Pulse+Analysis+GIF)
+![Sector Pulse Demo](https://github.com/Vicistar-V/vin-stock-ai/blob/main/public/sector-pulse-demo.gif)
 
 **What it does:**
 - Monitors sector performance live.
@@ -136,7 +122,7 @@
 ### 📋 **9. SEC Filing Analyzer**
 *AI reads official company reports for you, so you don't have to!*
 
-![SEC Filing Demo](https://via.placeholder.com/600x300/000000/FFFFFF?text=SEC+Filing+Analyzer+GIF)
+![SEC Filing Demo](https://github.com/Vicistar-V/vin-stock-ai/blob/main/public/sec-filing-demo.gif)
 
 **What it does:**
 - Automatically gets and processes SEC filings.
@@ -150,7 +136,7 @@
 ### 🔮 **10. Future Outlook Analysis**
 *AI tries to predict what's next for your investments.*
 
-![Future Outlook Demo](https://via.placeholder.com/600x300/000000/FFFFFF?text=Future+Outlook+Analysis+GIF)
+![Future Outlook Demo](https://github.com/Vicistar-V/vin-stock-ai/blob/main/public/future-outlook-analysis-demo.gif)
 
 **What it does:**
 - Uses multiple factors for AI predictions.
@@ -164,7 +150,7 @@
 ### ⚔️ **11. Competitor Analysis**
 *Get the scoop on who your stock's rivals are.*
 
-![Competitor Analysis Demo](https://via.placeholder.com/600x300/000000/FFFFFF?text=Competitor+Analysis+GIF)
+![Competitor Analysis Demo](https://github.com/Vicistar-V/vin-stock-ai/blob/main/public/competitor-analysis-demo.gif)
 
 **What it does:**
 - Automatically finds competitors.
@@ -178,7 +164,7 @@
 ### 📱 **12. Awesome Responsive Interface**
 *Your trading terminal works great on any device!*
 
-![Responsive Interface Demo](https://via.placeholder.com/600x300/000000/FFFFFF?text=Responsive+Trading+Interface+GIF)
+![Responsive Interface Demo](https://github.com/Vicistar-V/vin-stock-ai/blob/main/public/responsive-interface-demo.gif)
 
 **What it does:**
 - Designed for mobile first, looks good everywhere.
@@ -192,7 +178,7 @@
 ## 🏗️ **HOW IT'S BUILT & WHAT'S INSIDE**
 
 ### **Frontend Fun**
-- ⚛️ **React 18** — Modern, component-based magic.
+- ⚛️ **Next.js** — The React framework for production.
 - 🎨 **TypeScript** — Keeps things neat and error-free.
 - 🎯 **Tailwind CSS** — Super flexible styling.
 - 🎭 **Shadcn/ui** — Beautiful, ready-to-use components.
@@ -214,7 +200,7 @@
 - 🎯 **Recommendation Engine** — AI-powered stock suggestions just for you.
 
 ### **Dev & Deployment Goodies**
-- ⚡ **Vite** — Super fast development and builds.
+- ⚡ **Next.js** — The React framework for production.
 - 🚀 **Vercel** — Deploys globally, scales automatically.
 - 📦 **NPM/Yarn** — Easy package management.
 - 🔧 **ESLint/Prettier** — Keeps the code clean and consistent.
@@ -231,8 +217,8 @@
 ### **1. Get the code & Set up**
 ```bash
 # Grab the code
-git clone <YOUR_GIT_URL>
-cd <YOUR_PROJECT_NAME>
+git clone https://github.com/Vicistar-V/vin-stock-ai.git
+cd vin-stock-main
 
 # Install all the stuff
 npm install
@@ -253,7 +239,7 @@ cp .env.example .env
 ```
 
 ### **3. See it in Action!**
-- 🌐 **Development:** `http://localhost:5173`
+- 🌐 **Development:** `http://localhost:3000` (Next.js default port)
 - 🚀 **Production:** Deploy to Vercel, Netlify, or your favorite platform!
 
 ---
@@ -440,7 +426,7 @@ Perfect on desktop, tablet, and mobile — your financial smarts, anywhere.
 
 ### **Get Support**
 - 📚 **Docs:** [React Docs](https://react.dev) | [Supabase Docs](https://supabase.com/docs)
-- 🐛 **Bugs:** [GitHub Issues](https://github.com/your-repo/issues)
+- 🐛 **Bugs:** [GitHub Issues](https://github.com/Vicistar-V/vin-stock-ai/issues)
 - 📧 **Contact:** support@vinstock.ai
 
 ### **Stay Connected**
@@ -461,8 +447,8 @@ Perfect on desktop, tablet, and mobile — your financial smarts, anywhere.
 
 **Ready to change how you do investment research? This isn't just another stock app — it's your personal AI financial intelligence platform!**
 
-**[⭐ Star on GitHub](#) • [📧 Contact Us](mailto:support@vinstock.ai) • [🚀 Deploy Now](#deployment-options)**
+**[⭐ Star on GitHub](https://github.com/Vicistar-V/vin-stock-ai) • [📧 Contact Us](mailto:support@vinstock.ai) • [🚀 Deploy Now](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2FVicistar-V%2Fvin-stock-ai)**
 
 ---
 
-*Last updated: January 2025 • Built with React + TypeScript • Powered by AI*
+*Last updated: January 2025 • Built with Next.js + TypeScript • Powered by AI*
