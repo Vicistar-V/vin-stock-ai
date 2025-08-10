@@ -1,0 +1,34 @@
+project_id = "dzewmhtvwedccxtjaqnz"
+
+[functions.stock-search]
+verify_jwt = false
+
+[functions.market-movers]
+verify_jwt = false
+
+[functions.popular-stocks]
+verify_jwt = false
+
+[functions.stock-detail]
+verify_jwt = false
+
+[functions.stock-chart]
+verify_jwt = false
+
+[functions.sec-filing-analyzer]
+verify_jwt = false
+
+[functions.financial-metrics]
+verify_jwt = false
+
+[functions.explain-metric]
+verify_jwt = false
+
+[functions.sector-pulse]
+verify_jwt = false
+
+[functions.analyze-portfolio]
+verify_jwt = false
+
+[functions.compare-stocks]
+verify_jwt = false
